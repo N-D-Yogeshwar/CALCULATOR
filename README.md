@@ -23,7 +23,7 @@ Check it out live here: [View Calculator](https://n-d-yogeshwar.github.io/CALCUL
 
 ## 📸 Screenshot
 
-![Calculator Screenshot](https://github.com/N-D-Yogeshwar/CALCULATOR/raw/main/screenshot.png)
+![Calculator Screenshot](screenshotcalculator.png)
 
 ## 🤝 Contributing
 
